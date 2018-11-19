@@ -49,7 +49,6 @@ img:hover {
 .column {
   width: 32%;
   height: 300px;
-  background: grey;
   display: inline-block;
   overflow: hidden;
 }
