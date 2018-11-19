@@ -48,13 +48,16 @@ img:hover {
 
 .column {
   width: 32%;
-  height: 300px;
   display: inline-block;
   overflow: hidden;
 }
 
 .img {
   width: 100%;
+}
+
+.img-med {
+  width: 200%;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
