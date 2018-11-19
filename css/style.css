@@ -50,6 +50,7 @@ img:hover {
   width: 33%;
   height: 300px;
   background: grey;
+  display: inline-block;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
